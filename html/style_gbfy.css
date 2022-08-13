@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'TimesReg';
+    src: url('Typography Times Regular.ttf');
+}
+
+@font-face {
+    font-family: 'DelmonDelicate';
+    src: url('delmon delicate.ttf');
+}
+
+@font-face {
+    font-family: 'DreamOrphans';
+    src: url('dream orphans.otf');
+}
+
+
+body {
+    height:300vh;
+    margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;
+}
+.div_menu_geral {
+    background-color: #131313;
+    margin:0 auto;
+    height:55px; width:100%;
+    position:relative;
+}
+
+.div_principal_name_image {
+    left:60px;
+    position:absolute;
+}
+
+
+#h1_gbfy {
+    font-family: 'DelmonDelicate';
+    text-align: center; font-size: 50px; font-weight:bold;
+    color:#3aff5c;
+    margin: 0 15px;
+    display:inline
+}
+
+.a_botoes {
+    text-decoration: none; text-transform:uppercase;
+    font-weight: bold; font-size:45px; font-family: 'DreamOrphans';
+    color: #202124;
+}
+
+.div_botoes_list {
+    position:absolute; right:150px
+}
+
+.li_botoes {
+    display:inline;
+    margin:0 0 0 15px;
+}
+
+#div_apresentacao {
+    height:230px; width:650px;
+    background-image: url('images/wallpaper.jpg');
+    margin-top: 50px;
+    border-style: solid; border-color:#131313; border-width:15px; vertical-align:center;
+}
+
+#h1_apresentacao {
+    color:rgb(190, 185, 76);
+    font-size:40px; font-family: 'DelmonDelicate';
+    text-align:center;
+}
+
+.div_dancing_video {
+    text-align: center;
+    margin-top:40px; margin-bottom:40px;
+}
+
+#music_players {
+    text-align: center;
+    margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;
+}
+
+#botao_voltar {
+    text-decoration:none;
+    font-family: 'DreamOrphans'; text-transform:uppercase; font-weight:bold; font-size:40px; color:#29af29;
+}

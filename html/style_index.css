@@ -1,0 +1,31 @@
+#background {
+    background-color: #4463aa;
+
+}
+
+body {
+    margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;
+}
+
+#h1_principal {
+    text-align:center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #2f74b4;
+    background-color:#5555a1;
+    font-size:45px;
+    height:55px;
+    width:100%;
+}
+
+#cor_titulo {
+    color: #4463aa;
+}
+
+.p_centro {
+    text-align: center
+}
+
+h2 {
+    text-align: center
+}
